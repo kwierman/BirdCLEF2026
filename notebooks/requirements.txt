@@ -1,0 +1,26 @@
+# BirdCLEF2026 Requirements
+
+## Core ML
+torch>=2.0.0
+torchvision
+torchaudio
+timm
+transformers
+
+# Audio processing
+librosa
+soundfile
+audiomentations
+
+# Data handling
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Misc
+tqdm
+pillow

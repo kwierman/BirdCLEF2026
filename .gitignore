@@ -1,3 +1,4 @@
+*.zip
 *.csv
 taxonomy.csv
 test_soundscapes/
@@ -5,3 +6,5 @@ train_audio/
 train.csv
 train_soundscapes/
 train_soundscapes_labels.csv
+session*
+recording_location.txt
