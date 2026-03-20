@@ -8,3 +8,14 @@ train_soundscapes/
 train_soundscapes_labels.csv
 session*
 recording_location.txt
+.ipynb_checkpoints/
+
+models/
+notebooks/.ipynb_checkpoints/*
+notebooks/class_distribution.png
+notebooks/geographic_distribution.png
+notebooks/quality_distribution.png
+notebooks/sample_spectrogram.png
+notebooks/species_distribution.png
+notebooks/species_mapping.json
+
