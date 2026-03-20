@@ -10,7 +10,10 @@ session*
 recording_location.txt
 .ipynb_checkpoints/
 
+output/
+processed_data/
 models/
+runs/
 notebooks/.ipynb_checkpoints/*
 notebooks/class_distribution.png
 notebooks/geographic_distribution.png

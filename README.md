@@ -1,6 +1,6 @@
-# BirdCLEF2026 Notebooks
+# BirdCLEF2026 
 
-This directory contains comprehensive Jupyter notebooks for the BirdCLEF2026 Challenge - Wildlife Species Classification from Audio.
+This repository contains comprehensive Jupyter notebooks for the BirdCLEF2026 Challenge - Wildlife Species Classification from Audio.
 
 ## Challenge Overview
 
